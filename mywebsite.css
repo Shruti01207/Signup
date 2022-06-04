@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    text-decoration:underline;
+    color: rgb(251, 251, 251);
+}
+h2{
+    text-align: center;
+}
+form{
+    display:blockline;
+    text-align: center;
+  
+ 
+}
+ 
+ fieldset{
+     display: block;
+ }
+
+.bg{
+    background-image:url(img/stone.jpg);
+}
+.box{
+    width: 500px;
+    height: 300px;
+    margin:60px auto 0;
+    background:rgba(0,0,0,0.6);
+    text-align: center;
+    padding: 35px;
+    border: 3px solid #fff;
+    border-radius: 70px 0 70px 0;
+}
